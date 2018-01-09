@@ -1,5 +1,5 @@
 # Web Development Concept Tools
-A collection of interactive tools and apps that teach web development and related programming concepts.
+For all the visual/experimental learners out there - a collection of interactive apps that help users learn and better comprehend web development concepts.
 ___
 
 ## HTML & the DOM
@@ -7,14 +7,6 @@ ___
 A site for learning and playing around with DOM events<br/>
 **link:** http://domevents.info/ <br/>
 **repo:** https://github.com/ryanjyost/dom-events
-
-## Data & Algorithms
-**Tone of Sorting**<br/>
-Tone of Sorting is an interactive visualisation of sorting algorithms with sound.<br/>
-**link:** https://caspervonb.github.io/toneofsorting/<br/>
-**repo:** https://github.com/caspervonb/toneofsorting
-
-
 
 ## CSS
 **CSS-101**<br/>
@@ -30,6 +22,19 @@ A game for learning CSS flexbox.<br/>
 A game for learning CSS grid layout.<br/>
 **link:** http://cssgridgarden.com/ <br/>
 **repo:** https://github.com/thomaspark/gridgarden/
+
+## JavaScript
+**ES6Console.com**<br/>
+Play with ECMAScript (6 to 5) compiler<br/>
+**link:** https://es6console.com/jc74m5fc/ <br/>
+**repo:** https://github.com/matthisk/es6console
+
+## Data & Algorithms
+**Tone of Sorting**<br/>
+Tone of Sorting is an interactive visualisation of sorting algorithms with sound.<br/>
+**link:** https://caspervonb.github.io/toneofsorting/<br/>
+**repo:** https://github.com/caspervonb/toneofsorting
+
 
 
 ## *Entry Format*
