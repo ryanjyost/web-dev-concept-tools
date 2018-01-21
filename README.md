@@ -30,6 +30,11 @@ Play with ECMAScript (6 to 5) compiler<br/>
 **repo:** https://github.com/matthisk/es6console
 
 ## Data & Algorithms
+**Regex101**<br/>
+Super well-done, sleek app that helps you translate and test regular expressions.<br/>
+**link:** https://regex101.com/ <br/>
+**repo:** https://github.com/firasdib/Regex101
+
 **Tone of Sorting**<br/>
 Tone of Sorting is an interactive visualisation of sorting algorithms with sound.<br/>
 **link:** https://caspervonb.github.io/toneofsorting/<br/>
